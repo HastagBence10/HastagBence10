@@ -1,0 +1,17 @@
+body {
+    background-image: url(need-for-speed-most-wanted-2005.jpg);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-variant-caps: all-petite-caps;
+    text-align: center;
+}
+
+h2{
+    font-variant-caps: all-petite-caps;
+}
+
+p {
+    font-size: medium;
+}
